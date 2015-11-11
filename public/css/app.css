@@ -1,0 +1,11 @@
+/* app css stylesheet */
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background: url(/images/common-starling.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
